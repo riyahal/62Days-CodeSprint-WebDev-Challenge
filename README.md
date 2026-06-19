@@ -149,6 +149,144 @@ SSoC provides workshops, sessions, and mentorship across multiple domains:
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+# 🎯 What We Expect From Contributors
+
+This project is designed to help developers learn, build, and showcase their skills through real-world web development projects. Whether you are a beginner or an experienced developer, your contributions can help create a valuable learning resource for the community. 🌟
+
+---
+
+## 💡 What Kind of Contributions Are Expected?
+
+We encourage contributors to build and submit projects ranging from beginner to advanced levels, including:
+
+### 🌐 Frontend Projects Examples
+
+* Simple HTML pages
+* HTML + CSS landing pages
+* Responsive websites
+* Portfolio websites
+* Login & Registration pages
+* Interactive JavaScript projects
+* API-based applications
+* Advanced UI/UX designs
+
+### ⚡ JavaScript Projects Examples
+
+* To-Do Applications
+* Weather Applications
+* Quiz Applications
+* Expense Trackers
+* Notes Applications
+* E-Commerce Frontend
+* Dashboard Interfaces
+* Real-Time Applications
+
+### 🚀 Full Stack Projects Examples
+
+* MERN Stack Applications
+* Authentication Systems
+* Blog Platforms
+* E-Commerce Websites
+* Learning Management Systems
+* Chat Applications
+* Project Management Tools
+* Advanced Full Stack Solutions
+
+---
+
+## 🏆 Project Showcase Platform
+
+One of the primary goals of this challenge is to create a centralized showcase platform.
+
+✨ The Project Admin will develop a dedicated website where all approved projects will be displayed.
+
+The platform will allow users to:
+
+🔹 View project details
+🔹 Explore source code
+🔹 Download projects
+🔹 Learn from contributor implementations
+🔹 Discover beginner-to-advanced project ideas
+🔹 Showcase contributor achievements
+
+This will create a valuable open-source learning hub for future developers. 🚀
+
+---
+
+## ✅ Contribution Requirements
+
+Before submitting a Pull Request, ensure that your project:
+
+✔️ Is fully functional
+✔️ Has clean and readable code
+✔️ Contains proper documentation
+✔️ Includes installation instructions
+✔️ Follows repository guidelines
+✔️ Works without errors or warnings
+✔️ Has a meaningful project structure
+✔️ Is beginner-friendly and educational
+
+---
+
+## ❌ What We Do Not Accept
+
+To maintain project quality, the following submissions may be rejected:
+
+❌ Broken projects
+❌ Incomplete implementations
+❌ Projects containing merge conflicts
+❌ Projects with console errors or runtime errors
+❌ Copied projects without modification or attribution
+❌ Malicious code or harmful scripts
+❌ Sensitive information exposure
+
+---
+
+## 🔐 Security Guidelines
+
+For security reasons, contributors must never upload:
+
+❌ `.env` files
+❌ API keys
+❌ Database credentials
+❌ Access tokens
+❌ Passwords
+❌ Personal or private user data
+❌ Secret configuration files
+
+Always use:
+
+✅ `.env.example` files
+✅ Placeholder values
+✅ Sample data for demonstrations
+
+---
+
+## 🌟 Quality Matters
+
+We value quality over quantity.
+
+A well-designed, fully working beginner project is more valuable than a large project filled with bugs. Focus on:
+
+🎨 Better UI/UX
+🧹 Clean Code Practices
+📱 Responsive Design
+⚡ Performance Optimization
+🔒 Security Best Practices
+📚 Proper Documentation
+
+---
+
+## 🚀 Let's Build Something Amazing Together
+
+Whether you're creating your first HTML page or an advanced MERN Stack application, every meaningful contribution helps strengthen this open-source ecosystem.
+
+💻 Code with passion
+🤝 Collaborate with the community
+🌟 Learn by building
+🚀 Grow as a developer
+
+### Happy Coding & Happy Contributing! 🎉🔥
 
 
 
