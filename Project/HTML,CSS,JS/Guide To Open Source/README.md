@@ -1,9 +1,10 @@
 <div align="center">
 
-# 🐈‍⬛ The Definitive Guide to Git, GitHub, and Open Source Contribution
+## 🐈‍⬛ The Definitive Guide to Git, GitHub, and Open Source Contribution
 
-## An interactive website providing a comprehensive guide to version control with Git and contributing to open-source projects on GitHub.
+### An interactive website providing a comprehensive guide to version control with Git and contributing to open-source projects on GitHub.
 
+<br>
 <p>
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
@@ -16,13 +17,13 @@
 
 ---
 
-### 🚀 Overview
+## 🚀 Overview
 
 This project is a single-page, interactive website built to serve as a definitive guide for beginners navigating the world of Git, GitHub, and open-source contributions. It features a clean, modern design with a sticky navigation bar, smooth scrolling, and hover-based dropdown menus for an intuitive user experience.
 
 ---
 
-### 📚 Contents
+## 📚 Contents
 
 The guide is split into 4 main parts:
 
@@ -33,7 +34,7 @@ The guide is split into 4 main parts:
 
 ---
 
-### 📂 Project Structure
+## 📂 Project Structure
 
 The project is built with a simple and clean structure:
 
@@ -46,7 +47,7 @@ The project is built with a simple and clean structure:
 
 ---
 
-### Screenshots
+## Screenshots
 
 ![alt text](image.png)
 
@@ -57,18 +58,20 @@ The project is built with a simple and clean structure:
 ---
 
 
-### 🏃 How To Run
+## 🏃 How To Run
 
 To run this project locally, follow these simple steps:
 
 1.  **Clone the repository** (replace `your-repo-name` with the actual repository name):
     ```bash
-    git clone https://github.com/rhalbhavi/your-repo-name.git
+    git clone https://github.com/abhisek2004/62Days-CodeSprint-WebDev-Challenge/Project/HTML,CSS,JSS/Guide-To-Open-Source.git
     ```
+
 2.  **Navigate to the project directory:**
     ```bash
-    cd your-repo-name
+    cd Guide-To-Open-Source
     ```
+
 3.  **Open the website:**
     Simply open the `index.html` file in your favorite web browser.
 
